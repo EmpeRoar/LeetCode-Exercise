@@ -1,8 +1,9 @@
 ﻿using System;
+using System.Linq;
 
 namespace LeetCode
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -10,11 +11,17 @@ namespace LeetCode
 
         }
 
+        /// <summary>
+        /// TwoSum
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <param name="target"></param>
+        /// <returns></returns>
         public static int[] TwoSum(int[] nums, int target)
         {
             for (int i = 0; i <= nums.Count(); i++)
             {
-                for (int j = 1; j < nums.Count(); j++)
+                for (int j = i + 1; j < nums.Count(); j++)
                 {
                     if (target == (nums[i] + nums[j]))
                     {
@@ -24,5 +31,7 @@ namespace LeetCode
             }
             return null;
         }
+    
+    
     }
 }

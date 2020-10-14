@@ -1,0 +1,13 @@
+D:\DELETEABLE\LeetCode-Execise\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.exe
+D:\DELETEABLE\LeetCode-Execise\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.deps.json
+D:\DELETEABLE\LeetCode-Execise\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.json
+D:\DELETEABLE\LeetCode-Execise\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.dev.json
+D:\DELETEABLE\LeetCode-Execise\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.dll
+D:\DELETEABLE\LeetCode-Execise\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.pdb
+D:\DELETEABLE\LeetCode-Execise\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csprojAssemblyReference.cache
+D:\DELETEABLE\LeetCode-Execise\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfoInputs.cache
+D:\DELETEABLE\LeetCode-Execise\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfo.cs
+D:\DELETEABLE\LeetCode-Execise\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csproj.CoreCompileInputs.cache
+D:\DELETEABLE\LeetCode-Execise\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.dll
+D:\DELETEABLE\LeetCode-Execise\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.pdb
+D:\DELETEABLE\LeetCode-Execise\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.genruntimeconfig.cache
