@@ -3,9 +3,17 @@ using Xunit;
 
 namespace LeetCode.Test
 {
+    /// <summary>
+    /// Tests
+    /// </summary>
     public class Tests
     {
-        
+        /// <summary>
+        /// Testing Two Sum
+        /// </summary>
+        /// <param name="r"></param>
+        /// <param name="o"></param>
+        /// <param name="t"></param>
         [Theory]
         [InlineData(new int[] { 2, 7, 11, 15 }, new int[] { 0, 1 }, 9)]
         [InlineData(new int[] { 1,8 }, new int[] { 0, 1 }, 9)]
