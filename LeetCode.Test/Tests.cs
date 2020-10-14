@@ -3,7 +3,7 @@ using Xunit;
 
 namespace LeetCode.Test
 {
-    public class UnitTest1
+    public class Tests
     {
         
         [Theory]
